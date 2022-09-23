@@ -1,0 +1,1 @@
+time ./bzip2 ../data/test/input/input.random 2

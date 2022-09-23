@@ -1,0 +1,1 @@
+time ./vpr ../data/test/input/net.in ../data/test/input/arch.in ../data/test/input/place.out ../data/test/input/dum.out -nodisp -place_only -init_t 5 -exit_t 0.005 -alpha_t 0.9412 -inner_num 2

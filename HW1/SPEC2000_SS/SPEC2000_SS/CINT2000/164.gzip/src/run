@@ -1,0 +1,1 @@
+time ./gzip ../data/test/input/input.compressed 2
